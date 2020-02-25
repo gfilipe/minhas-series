@@ -1,0 +1,37 @@
+{
+  "series": [
+    {
+      "id": 3,
+      "name": "Breaking Bad 2",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena 2"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "The Good Doctor",
+      "status": "watching",
+      "genre": "Drama",
+      "comments": "gsfddffgfdsgsdfg",
+      "id": 5
+    },
+    {
+      "name": "Máquina Mortífera",
+      "status": "watching",
+      "genre": "Ação",
+      "comments": "Série de ação com o cara do \"Eu, a patroa e as crianças\"",
+      "id": 7
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
